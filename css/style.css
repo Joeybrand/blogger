@@ -198,13 +198,13 @@ section{
 
 .container .posts-container .post .title{
     padding-top: 1.5rem;
-    font-size: 2.5rem;
+    font-size: 2.0rem;
     color:var(--black);
 }
 
 .container .posts-container .post .text{
     color:var(--light-color);
-    font-size: 1.6rem;
+    font-size: 1.3rem;
     line-height: 1.7;
     padding:1rem 0;
 }
@@ -212,7 +212,7 @@ section{
 .container .posts-container .links{
     border-top: var(--border);
     margin-top: .5rem;
-    padding-top: 1.5rem;
+    padding-top: 1.1rem;
     display: flex;
     align-items: center;
 }
